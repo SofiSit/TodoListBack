@@ -4,10 +4,10 @@ Description
 
 This project is the backend of aTodoList using MondoDB.
 
-Install dependencies
+#Install dependencies
 
 $ npm install
 
-Run de following command
+#Run de following command
 
 $ npm start
